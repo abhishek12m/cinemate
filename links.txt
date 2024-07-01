@@ -1,4 +1,4 @@
-API Key: 38dfjfkwehk6d57ed9c7e3713f91c188audgiu4r(example api key and it is wrong)
+API Key: 38dfjfkwehk6d57ed9c7e3713f91c188audgiu4r(Example API key and it is wrong API key)
 Base URL: https://api.themoviedb.org/3
 
 Individual:
